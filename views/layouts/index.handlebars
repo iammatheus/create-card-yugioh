@@ -1,0 +1,21 @@
+<main>
+   <div class="container">
+      <header class="titleCreateCard">
+         <h1>Cartas Criadas</h1>
+      </header>
+      <section class="containerCard">
+            {{#if cards}}
+               {{#each cards}}
+                  <div class="cardView">
+                     <div class="{{type}} imgCardModel imgCardModelView">
+                           {{>_cardContainer}}
+                     </div>
+                  </div>
+               {{else}}
+               {{/each}}
+            {{else}}
+               <p class="noCard">Nenhuma carta criada...</p>
+            {{/if}}
+         </section>
+   </div>
+</main>

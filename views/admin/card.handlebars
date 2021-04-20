@@ -1,0 +1,103 @@
+<main>
+   <div class="container">
+      <header>
+         <h1>Criar Carta</h1>
+      </header>
+
+      <section>
+         <div class="card-create">
+            <div class="imgCardModel">
+               <form class="options" name="options" id="options" method="post" action="/card/create" enctype="multipart/form-data">
+                  <label for="cardImage" class="selectImg">Adicionar Imagem</label>
+                 
+                  <input 
+                     type="file" 
+                     class="selectImg" 
+                     name="image" 
+                     id="cardImage"
+                     onchange="return validateImg()">
+
+                  <div class="imgCard" id="viewCardImage"></div>
+
+                  <select name="level" class="level">
+                     <option value="one">1</option>
+                     <option value="two">2</option>
+                     <option value="three">3</option>
+                     <option value="four">4</option>
+                     <option value="five">5</option>
+                     <option value="six">6</option>
+                     <option value="seven">7</option>
+                     <option value="eight">8</option>
+                     <option value="nine">9</option>
+                     <option value="then">10</option>
+                     <option value="elevel">11</option>
+                     <option value="twelve">12</option>
+                  </select> 
+
+                  <select name="type" class="type">
+                     <option value="aqua">Aqua</option>
+                     <option value="beast">Beast</option>
+                     <option value="beast-warrior">Beast-warrior</option>
+                     <option value="dinosaur">Dinosaur</option>
+                     <option value="divine">Divine</option>
+                     <option value="dragon">Dragon</option>
+                     <option value="fairy">Fairy</option>
+                     <option value="fiend">Fiend</option>
+                     <option value="fish">Fish</option>
+                     <option value="insect">Insect</option>
+                     <option value="machine">Machine</option>
+                     <option value="plant">Plant</option>
+                     <option value="pyro">Pyro</option>
+                     <option value="reptile">Reptile</option>
+                     <option value="rock">Rock</option>
+                     <option value="sea-serpent">Sea-serpent</option>
+                     <option value="spellcaster">Spellcaster</option>
+                     <option value="thunder">Thunder</option>
+                     <option value="warrior">Warrior</option>
+                     <option value="winged-beast">Winged-beast</option>
+                     <option value="zombie">Zombie</option>
+                  </select>
+
+                  <select name="attribute" class="attribute">
+                     <option value="Dark">Dark</option>
+                     <option value="Divine">Divine</option>
+                     <option value="Earth">Earth</option>
+                     <option value="Fire">Fire</option>
+                     <option value="Light">Light</option>
+                     <option value="Water">Water</option>
+                     <option value="Wind">Wind</option>
+                  </select> 
+
+                  <input type="number" 
+                     name="attack" 
+                     placeholder="Ataque" 
+                     class="attack" 
+                     id="cardAttack" 
+                     min="0"
+                     max="9999"
+                     required>
+
+                  <input type="number" 
+                     name="defense" 
+                     placeholder="Defesa" 
+                     class="defense" 
+                     id="cardDefense" 
+                     min="0"
+                     max="9999"
+                     required>
+
+                  <input type="text" 
+                     name="name" 
+                     placeholder="Nome" 
+                     class="name defense" 
+                     id="cardName" 
+                     required>
+               </form>
+               
+            </div>
+               <button type="submit" form="options" id="submit">Criar</button>
+         </div>
+      </section>
+   </div>
+</main>
+<script src="../../scripts.js"></script>

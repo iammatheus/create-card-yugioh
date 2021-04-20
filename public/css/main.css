@@ -1,0 +1,116 @@
+:root{
+   /* colors website */
+   --bodyColor: linear-gradient(90deg, 
+                              rgba(2,0,36,1) 0%, 
+                              rgba(244,244,244,1) 0%, 
+                              rgba(252,252,252,1) 50%, 
+                              rgba(255,255,255,1) 100%);
+
+   --navColor: linear-gradient(90deg, 
+                                    rgba(2,0,36,1) 0%, 
+                                    rgba(255,247,227,1) 0%, 
+                                    rgba(255,248,235,1) 50%, 
+                                    rgba(255,252,245,1) 100%);
+   --navHoverColor: #f8ebcd;
+
+   --borderNavPrimaryColor: #e2e2e2c2;
+   --borderNavHoverColor: #d49e20;
+
+   --cardHeaderNormalColor: #ffffc8;
+   --cardHeaderDivineColor: #c8d0ff;
+
+   /* neutro */
+   --blackColor: #000;
+
+   /* font-size */
+   font-size: 62.5%;
+}
+*, 
+html{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   font-family: 'Antonio', sans-serif;
+   font-weight: 400;
+}
+body{
+   font-size: 1.6rem;
+   background: var(--bodyColor);
+}
+.container{
+   padding: 20px;
+   margin: 0 auto;
+}
+h1{
+   margin-top: 50px;
+   text-align: center;
+   text-decoration: underline;
+}
+nav{
+   background: var(--navColor);   
+}
+nav ul {
+   display: flex;
+   flex-wrap: wrap;
+}
+nav ul li {
+   padding: 10px 0;
+   border-right: 1px solid var(--borderNavPrimaryColor);
+   list-style: none;
+   transition: .2s;
+}
+nav ul li:hover{
+   background-color: var(--navHoverColor);
+   border-color: var(--borderNavHoverColor);
+}
+nav ul li a{
+   padding: 26px;
+   text-decoration:none; 
+   color: var(--blackColor);
+}
+.logo{
+   width: 147px;
+   cursor: pointer;
+}
+.create-card-img{
+   vertical-align: middle;
+   width: 80px;
+   margin:0 5px;
+}
+button[type="submit"]{
+   width: 262px;
+   height: 50px;
+   margin-top:70px;
+   cursor: pointer;
+   background: #f8ebcd;
+   border: none;
+   font-size: 22px;
+   border-radius: 10px;
+   box-shadow: 0 3px 5px rgba(0,0,0,.2);
+   transition: .3s;
+}
+button[type="submit"]:hover{
+   background: #fff7e3;
+}
+.deleteContainer{
+   margin-bottom: 70px;
+}
+.formDelete > button[type="submit"]{
+   margin-top: 10px;
+   width: 100%;
+   text-align: center;
+}
+
+/* mediascreen - 655px */
+@media only screen and (max-width: 665px){
+   nav ul {
+      flex-direction: column;
+      text-align: center;
+   }
+   nav ul li {
+      border-bottom: 1px solid var(--blackColor);
+   }
+   .logo{
+      width: 200px;
+   }
+}

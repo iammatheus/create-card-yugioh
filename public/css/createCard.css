@@ -1,0 +1,74 @@
+.card-create{
+   text-align: -webkit-center;
+   margin-top: 50px;
+}
+.selectImg,
+.level,
+.attribute,
+.defense,
+.attack,
+.type{
+   position: absolute;
+   cursor: pointer;
+   text-align: center;
+   border-radius: 10px;
+   background: none;
+   outline: none;
+}
+.attack,
+.defense{
+   padding: 8px 0px;
+   width: 100px;
+   font-size: 20px;
+   border: none;
+}
+.attack::placeholder,
+.defense::placeholder{
+   font-size: 14px;
+}
+.attack{
+   margin: 297px 25px;
+}
+.defense{
+   margin: 297px 143px;
+}
+.selectImg{
+   padding: 120px 77px;
+   z-index: 2;
+}
+.imgCard{
+   width: 262px;
+   height: 262px;
+   position: absolute;
+   z-index: 1;
+}
+.level,
+.attribute,
+.type{
+   padding: 3px;
+   margin: 265px 10px;
+}
+.attribute{
+   margin-left: 183px;
+}
+.type{
+   margin-left: 69px;
+}
+.name{
+   width: 262px;
+   margin: 360px 0px;
+   border: 1px solid #000;
+   padding: 5px;
+   font-size: 1.8rem;
+}
+input[type="file"]{
+   display: none;
+}
+form{
+   text-align: -webkit-auto;
+}
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}

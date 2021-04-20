@@ -1,0 +1,91 @@
+
+.containerCard{
+   display: flex;
+   flex-wrap: wrap;
+   max-width: 1200px;
+   margin: 50px auto 0;
+   justify-content: center;
+}
+.infoCard{
+   flex-wrap: wrap;
+   flex: 1 1 500px;
+   box-shadow: 0px 0px 15px rgba(0,0,0,.6);
+}
+.imgCardModel,
+.divine{
+   width: 262px;
+   height: 354px;
+   background-image: url("/image/card-create-model.png");
+   background-size:  100% 100%;
+   background-repeat: no-repeat;
+   background-position: center;
+}
+.divine{
+   background-image: url("/image/divineCard.png");
+   background-color: var(--cardHeaderDivineColor) !important;
+}
+.imgCardModelView{
+   width: 262px;
+   height: 354px;
+   margin: 10px 15px 80px;
+}
+.imgView{
+   width: 250px;
+   height: 250px;
+   margin: 6px;
+}
+.lvlAtt,
+.atkDef{
+   display: flex;
+   margin: 8px 0;
+   justify-content:center;
+}
+.lvlAtt{
+   justify-content: space-between;
+   padding-left: 10px;
+}
+.atkDef > .defenseView,
+.atkDef > .attackView{
+   font-size: 25px;
+   padding: 4px;
+   width: 92px;
+   text-align: center;
+   margin: -11px 13px; 
+}
+.cardHeader{
+   margin-top: 27px;
+   padding: 5px;
+   height: inherit;
+   background-image: none;
+   background-color: var(--cardHeaderNormalColor);
+}
+.cardName{
+   font-size: 1.8rem;
+   text-align: center;
+   word-wrap: break-word;
+   font-weight: 700;
+}
+.cardType{
+   font-size: 1.3rem;
+   margin-top: 5px;
+   text-align: center;
+   text-transform: capitalize;
+}
+.cardType > img {
+   width: 18px;
+   vertical-align: middle;
+}
+.levelView > img{
+   width: auto;
+}
+.attributeView > img{
+   width: 25px;
+   position: relative;
+   right: 10px;
+   top: -5px;
+}
+.noCard{
+   font-size: 1.8rem;
+   color: #ed2124;
+   margin-top: 15px;
+}

@@ -1,0 +1,29 @@
+<div class="container">
+   <header class="titleCreateCard">
+         <h1>Deletar Cartas</h1>
+      </header>
+   <section class="containerCard">
+      {{#if cardList}}
+         {{#each cardList}}
+            <div class="cardView deleteContainer">
+               <div class="{{type}} imgCardModel imgCardModelView">
+                  {{>_cardContainer}}
+                  <form action="/card/delete" method="post" class="formDelete">
+                     <input type="hidden" name="id" value="{{_id}}">
+                     <button type="submit">Deletar</button>
+                  </form>
+               </div>
+            </div>
+         {{else}}
+         {{/each}}
+      {{else}}
+         <p class="noCard">Nenhuma carta para deletar...</p>
+      {{/if}}
+   </section>
+</div>
+
+
+
+
+
+   
