@@ -5,11 +5,7 @@ const deleteCard = require("../../functions/deleteCard")
 const listCardIndex = require("../../functions/listCardIndex")
 const listCard = require("../../functions/listCard")
 const upload = require("./configMulter")
-const path = require('path')
 
-
-
-//ROTAS
 //Home
 router.get('/', (req, res) => {
    listCardIndex(req, res)
@@ -25,10 +21,9 @@ router.get('/admin/card', (req, res) => {
    res.render('admin/card')
 })
 
-router.post('/card/create', upload.single('image'), (req, res) => {
+router.post('/card/create', upload.single('image'),  async (req, res) => {
    createCard(req, res)
 })
-
 
 //Deletar cartas
 router.post('/card/delete', async (req, res) => {

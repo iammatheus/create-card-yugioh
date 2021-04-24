@@ -77,6 +77,8 @@
 }
 .levelView > img{
    width: auto;
+   position: relative;
+   top: -3px;
 }
 .attributeView > img{
    width: 25px;

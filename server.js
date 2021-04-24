@@ -1,6 +1,7 @@
 require('dotenv').config()
 const express = require('express')
 const handlebars = require('express-handlebars')
+const cors = require("cors");
 const path = require('path')
 const server = express()
 const routes = require('./src/config/routes')
@@ -32,6 +33,8 @@ server.set('view engine', 'handlebars')
 //Configurando arquivos Public
 server.use(express.static(path.join(__dirname, 'public')))
 
+//Configurando cors
+server.use(cors());
 
 //Rotas
 server.use('/', routes)
