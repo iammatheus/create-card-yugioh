@@ -2,13 +2,15 @@ let cardImage = document.getElementById('cardImage')
 let cardAttack = document.getElementById('cardAttack')
 let cardDefense = document.getElementById('cardDefense')
 let cardName = document.getElementById('cardName')
+let authorName = document.getElementById('authorName')
 let submit = document.getElementById('submit')
 
 submit.addEventListener("click", (event) => {
    if(cardImage.value == '' 
       && cardAttack.value == '' 
       && cardDefense.value == '' 
-      && cardName.value == ''){
+      && cardName.value == ''
+      && authorName.value == ''){
       alert('Preencha todos os campos!')
       event.preventDefault()
    }else if(cardImage.value == ''){
@@ -19,6 +21,9 @@ submit.addEventListener("click", (event) => {
       event.preventDefault()
    }else if(cardName.value == ''){
       alert('Insira um nome para a carta!')
+      event.preventDefault()
+   }else if(authorName.value == ''){
+      alert('Preencha o campo Autor!')
       event.preventDefault()
    }else{
       alert('Carta criada com sucesso!')

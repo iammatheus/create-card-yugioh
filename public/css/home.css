@@ -59,6 +59,14 @@
    background-image: none;
    background-color: var(--cardHeaderNormalColor);
 }
+.viewAuthor{
+   margin-top: 7px;
+   font-size: 1.1rem;
+}
+.viewAuthor > b{
+   font-weight: 700;
+   text-decoration: underline;
+}
 .cardName{
    font-size: 1.8rem;
    text-align: center;

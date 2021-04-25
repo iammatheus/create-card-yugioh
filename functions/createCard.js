@@ -25,7 +25,8 @@ async function card(req, res){
       attribute: req.body.attribute,
       attack: req.body.attack,
       defense: req.body.defense,
-      name: req.body.name
+      name: req.body.name,
+      author: req.body.author
    }
 
    new Card(newCard)
