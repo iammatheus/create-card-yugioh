@@ -18,108 +18,113 @@
       <li><b>Editor</b>: Visual Studio Code</li>
    </ol> 
 
-<div>
-   <h2>Criação de cartas</h2>
-   * Você pode criar os seguintes tipos de cartas:
+
+## Criação de cartas
+
+* Você pode criar os seguintes tipos de cartas:
+
+   <div> 
+      <img src="public/image/types/aqua.png" width="25px">
+      <span>aqua</span>
+   </div>
+     
+   <div>  
+      <img src="public/image/types/beast-warrior.png" width="25px"> 
+      <span>beast-warrior</span>
+   </div>
 
    <div>
-      <div>
-         <img src="public/image/types/aqua.png" width="25px">
-         <span>aqua</span>
-      </div>
-      <div>
-         <img src="public/image/types/beast-warrior.png" width="25px"> 
-         <span>beast-warrior</span>
-      </div>
-      <div>
-         <img src="public/image/types/beast.png" width="25px">
-         <span>beast</span>
-      </div>
+      <img src="public/image/types/beast.png" width="25px">
+      <span>beast</span>
    </div>
+
    <div>
-      <div>
-         <img src="public/image/types/dinosaur.png" width="25px">
-         <span>dinosaur</span>
-      </div>
-      <div>
-         <img src="public/image/types/divine.png" width="25px"> 
-         <span>divine</span>
-      </div>
-      <div>
-         <img src="public/image/types/dragon.png" width="25px">
-         <span>dragon</span>
-      </div>
+      <img src="public/image/types/dinosaur.png" width="25px">
+      <span>dinosaur</span>
    </div>
+
    <div>
-      <div>
-         <img src="public/image/types/fairy.png" width="25px">
-         <span>fairy</span>
-      </div>
-      <div>
-         <img src="public/image/types/fiend.png" width="25px">
-         <span>fiend</span>
-      </div>
-      <div>
-         <img src="public/image/types/fish.png" width="25px">
-         <span>fish</span>
-      </div>
+      <img src="public/image/types/divine.png" width="25px"> 
+      <span>divine</span>
    </div>
+
    <div>
-      <div>
-        <img src="public/image/types/insect.png" width="25px">
-         <span>insect</span>
-      </div>
-      <div>
-         <img src="public/image/types/machine.png" width="25px">
-         <span>machine</span>
-      </div>
-      <div>
-         <img src="public/image/types/plant.png" width="25px">
-         <span>plant</span>
-      </div>
+      <img src="public/image/types/dragon.png" width="25px">
+      <span>dragon</span>
    </div>
-   <div>
-      <div>
-         <img src="public/image/types/pyro.png" width="25px">
-         <span>pyro</span>
-      </div>
-      <div>
-        <img src="public/image/types/reptile.png" width="25px">
-         <span>reptile</span>
-      </div>
-      <div>
-         <img src="public/image/types/rock.png" width="25px">
-         <span>rock</span>
-      </div>
+
+  <div>
+  <img src="public/image/types/fairy.png" width="25px">
+   <span>fairy</span>
+  </div>
+
+  <div>
+  <img src="public/image/types/fairy.png" width="25px">
+   <span>fairy</span>
+  </div>
+
+  <div>
+  <img src="public/image/types/fiend.png" width="25px">
+   <span>fiend</span>
+  </div>
+
+  <div>
+  <img src="public/image/types/fish.png" width="25px">
+   <span>fish</span>
+  </div>
+  
+   <div>   
+      <img src="public/image/types/insect.png" width="25px">
+      <span>insect</span>
    </div>
-   <div>
-      <div>
-         <img src="public/image/types/sea-serpent.png" width="25px">
-         <span>sea-serpent</span>
-      </div>
-      <div>
-         <img src="public/image/types/spellcaster.png" width="25px">
-         <span>spellcaster</span>
-      </div>
-      <div>
-         <img src="public/image/types/thunder.png" width="25px">
-         <span>thunder</span>
-      </div>
+
+   <div>  
+      <img src="public/image/types/machine.png" width="25px">
+      <span>machine</span>
    </div>
-   <div>
-      <div>
-         <img src="public/image/types/warrior.png" width="25px">
-         <span>warrior</span>
-      </div>
-      <div>
-         <img src="public/image/types/winged-beast.png" width="25px">
-         <span>winged-beast</span>
-      </div>
-      <div>
-         <img src="public/image/types/zombie.png" width="25px">
-         <span>zombie</span>
-      </div>
+     
+   <div> 
+      <img src="public/image/types/plant.png" width="25px">
+      <span>plant</span>
    </div>
+
+   <div> 
+      <img src="public/image/types/pyro.png" width="25px">
+      <span>pyro</span>
+   </div>  
+   <div> 
+      <img src="public/image/types/reptile.png" width="25px">
+      <span>reptile</span>
+   </div>  
+   <div> 
+      <img src="public/image/types/rock.png" width="25px">
+      <span>rock</span>
+   </div>  
+   <div> 
+      <img src="public/image/types/sea-serpent.png" width="25px">
+      <span>sea-serpent</span>
+     
+   <div> 
+      <img src="public/image/types/spellcaster.png" width="25px">
+      <span>spellcaster</span>
+   </div>
+   <div> 
+      <img src="public/image/types/thunder.png" width="25px">
+      <span>thunder</span>
+   </div>  
+   <div> 
+      <img src="public/image/types/warrior.png" width="25px">
+      <span>warrior</span>
+   </div>
+   <div> 
+      <img src="public/image/types/winged-beast.png" width="25px">
+      <span>winged-beast</span>
+   </div>  
+   <div> 
+      <img src="public/image/types/zombie.png" width="25px">
+      <span>zombie</span>
+   </div>   
+   
 
    <br/>
 
@@ -129,11 +134,9 @@
 
    * O ataque e defesa não ultrapassam de <b>9999</b>. 
    * Só é possível inserir imagens dos tipos: <b>PNG, JPEG, JPG</b> ou <b>JFIF</b>.
-   * Todos os campos devem ser preenchidos!
+   * Todos os campos devem ser preenchidos!</span>
 
    <br/>
 
    * Projeto 100% responsivo.
    * <a href="https://yugioh-create-card.herokuapp.com/">Visualizar Projeto</a>
-
-</div>
