@@ -22,102 +22,102 @@
    <h2>Criação de cartas</h2>
    * Você pode criar os seguintes tipos de cartas:
 
-   <div style="display: flex; align-content: center; margin-left: 40px;">
-      <div style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
-         <img src="public/image/types/aqua.png" style="width: 25px;">
-         <span style="margin-left: 5px; text-transform: capitalize;">aqua</span>
+   <div>
+      <div>
+         <img src="public/image/types/aqua.png" width="25px">
+         <span>aqua</span>
       </div>
-      <div style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
-         <img src="public/image/types/beast-warrior.png" style="width: 25px;"> 
-         <span style="margin-left: 5px; text-transform: capitalize;">beast-warrior</span>
+      <div>
+         <img src="public/image/types/beast-warrior.png" width="25px"> 
+         <span>beast-warrior</span>
       </div>
-      <div style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
-         <img src="public/image/types/beast.png" style="width: 25px;">
-         <span style="margin-left: 5px; text-transform: capitalize;">beast</span>
-      </div>
-   </div>
-   <div style="display: flex; align-content: center; margin-left: 40px;">
-      <div style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
-         <img src="public/image/types/dinosaur.png" style="width: 25px;">
-         <span style="margin-left: 5px; text-transform: capitalize;">dinosaur</span>
-      </div>
-      <div style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
-         <img src="public/image/types/divine.png" style="width: 25px;"> 
-         <span style="margin-left: 5px; text-transform: capitalize;">divine</span>
-      </div>
-      <div style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
-         <img src="public/image/types/dragon.png" style="width: 25px;">
-         <span style="margin-left: 5px; text-transform: capitalize;">dragon</span>
+      <div>
+         <img src="public/image/types/beast.png" width="25px">
+         <span>beast</span>
       </div>
    </div>
-   <div style="display: flex; align-content: center; margin-left: 40px;">
-      <div style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
-         <img src="public/image/types/fairy.png" style="width: 25px;">
-         <span style="margin-left: 5px; text-transform: capitalize;">fairy</span>
+   <div>
+      <div>
+         <img src="public/image/types/dinosaur.png" width="25px">
+         <span>dinosaur</span>
       </div>
-      <div style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
-         <img src="public/image/types/fiend.png" style="width: 25px;">
-         <span style="margin-left: 5px; text-transform: capitalize;">fiend</span>
+      <div>
+         <img src="public/image/types/divine.png" width="25px"> 
+         <span>divine</span>
       </div>
-      <div style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
-         <img src="public/image/types/fish.png" style="width: 25px;">
-         <span style="margin-left: 5px; text-transform: capitalize;">fish</span>
-      </div>
-   </div>
-   <div style="display: flex; align-content: center; margin-left: 40px;">
-      <div style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
-        <img src="public/image/types/insect.png" style="width: 25px;">
-         <span style="margin-left: 5px; text-transform: capitalize;">insect</span>
-      </div>
-      <div style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
-         <img src="public/image/types/machine.png" style="width: 25px;">
-         <span style="margin-left: 5px; text-transform: capitalize;">machine</span>
-      </div>
-      <div style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
-         <img src="public/image/types/plant.png" style="width: 25px;">
-         <span style="margin-left: 5px; text-transform: capitalize;">plant</span>
+      <div>
+         <img src="public/image/types/dragon.png" width="25px">
+         <span>dragon</span>
       </div>
    </div>
-   <div style="display: flex; align-content: center; margin-left: 40px;">
-      <div style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
-         <img src="public/image/types/pyro.png" style="width: 25px;">
-         <span style="margin-left: 5px; text-transform: capitalize;">pyro</span>
+   <div>
+      <div>
+         <img src="public/image/types/fairy.png" width="25px">
+         <span>fairy</span>
       </div>
-      <div style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
-        <img src="public/image/types/reptile.png" style="width: 25px;">
-         <span style="margin-left: 5px; text-transform: capitalize;">reptile</span>
+      <div>
+         <img src="public/image/types/fiend.png" width="25px">
+         <span>fiend</span>
       </div>
-      <div style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
-         <img src="public/image/types/rock.png" style="width: 25px;">
-         <span style="margin-left: 5px; text-transform: capitalize;">rock</span>
-      </div>
-   </div>
-   <div style="display: flex; align-content: center; margin-left: 40px;">
-      <div style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
-         <img src="public/image/types/sea-serpent.png" style="width: 25px;">
-         <span style="margin-left: 5px; text-transform: capitalize;">sea-serpent</span>
-      </div>
-      <div style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
-         <img src="public/image/types/spellcaster.png" style="width: 25px;">
-         <span style="margin-left: 5px; text-transform: capitalize;">spellcaster</span>
-      </div>
-      <div style="width:150px; isplay:flex; align-items:center; margin:15px 0;">
-         <img src="public/image/types/thunder.png" style="width: 25px;">
-         <span style="margin-left: 5px; text-transform: capitalize;">thunder</span>
+      <div>
+         <img src="public/image/types/fish.png" width="25px">
+         <span>fish</span>
       </div>
    </div>
-   <div style="display: flex; align-content: center; margin-left: 40px;">
-      <div style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
-         <img src="public/image/types/warrior.png" style="width: 25px;">
-         <span style="margin-left: 5px; text-transform: capitalize;">warrior</span>
+   <div>
+      <div>
+        <img src="public/image/types/insect.png" width="25px">
+         <span>insect</span>
       </div>
-      <div style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
-         <img src="public/image/types/winged-beast.png" style="width: 25px;">
-         <span style="margin-left: 5px; text-transform: capitalize;">winged-beast</span>
+      <div>
+         <img src="public/image/types/machine.png" width="25px">
+         <span>machine</span>
       </div>
-      <div style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
-         <img src="public/image/types/zombie.png" style="width: 25px;">
-         <span style="margin-left: 5px; text-transform: capitalize;">zombie</span>
+      <div>
+         <img src="public/image/types/plant.png" width="25px">
+         <span>plant</span>
+      </div>
+   </div>
+   <div>
+      <div>
+         <img src="public/image/types/pyro.png" width="25px">
+         <span>pyro</span>
+      </div>
+      <div>
+        <img src="public/image/types/reptile.png" width="25px">
+         <span>reptile</span>
+      </div>
+      <div>
+         <img src="public/image/types/rock.png" width="25px">
+         <span>rock</span>
+      </div>
+   </div>
+   <div>
+      <div>
+         <img src="public/image/types/sea-serpent.png" width="25px">
+         <span>sea-serpent</span>
+      </div>
+      <div>
+         <img src="public/image/types/spellcaster.png" width="25px">
+         <span>spellcaster</span>
+      </div>
+      <div>
+         <img src="public/image/types/thunder.png" width="25px">
+         <span>thunder</span>
+      </div>
+   </div>
+   <div>
+      <div>
+         <img src="public/image/types/warrior.png" width="25px">
+         <span>warrior</span>
+      </div>
+      <div>
+         <img src="public/image/types/winged-beast.png" width="25px">
+         <span>winged-beast</span>
+      </div>
+      <div>
+         <img src="public/image/types/zombie.png" width="25px">
+         <span>zombie</span>
       </div>
    </div>
 
@@ -129,7 +129,7 @@
 
    * O ataque e defesa não ultrapassam de <b>9999</b>. 
    * Só é possível inserir imagens dos tipos: <b>PNG, JPEG, JPG</b> ou <b>JFIF</b>.
-   * <span style="color: #f54b42;">Todos os campos devem ser preenchidos!</span>
+   * <spanstyle="color: #f54b42;">Todos os campos devem ser preenchidos!</span>
 
    <br/>
 
