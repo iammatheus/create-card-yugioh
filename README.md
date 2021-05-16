@@ -18,106 +18,106 @@
       <li><b>Editor</b>: Visual Studio Code</li>
    </ol> 
 
-<div class="container">
+<div  style="margin: 20px 0;">
    <h2>Criação de cartas</h2>
    * Você pode criar os seguintes tipos de cartas:
 
-   <div class="container-icons">
-      <div class="content-icon">
-         <img src="public/image/types/aqua.png">
-         <span>aqua</span>
+   <div  style="display: flex; align-content: center; margin-left: 40px;">
+      <div  style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
+         <img src="public/image/types/aqua.png" style="width: 25px;">
+         <span style="margin-left: 5px; text-transform: capitalize;">aqua</span>
       </div>
-      <div class="content-icon">
-         <img src="public/image/types/beast-warrior.png"> 
-         <span>beast-warrior</span>
+      <div  style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
+         <img src="public/image/types/beast-warrior.png" style="width: 25px;"> 
+         <span style="margin-left: 5px; text-transform: capitalize;">beast-warrior</span>
       </div>
-      <div class="content-icon">
-         <img src="public/image/types/beast.png">
-         <span>beast</span>
-      </div>
-   </div>
-   <div class="container-icons">
-      <div class="content-icon">
-         <img src="public/image/types/dinosaur.png">
-         <span>dinosaur</span>
-      </div>
-      <div class="content-icon">
-         <img src="public/image/types/divine.png"> 
-         <span>divine</span>
-      </div>
-      <div class="content-icon">
-         <img src="public/image/types/dragon.png">
-         <span>dragon</span>
+      <div  style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
+         <img src="public/image/types/beast.png" style="width: 25px;">
+         <span style="margin-left: 5px; text-transform: capitalize;">beast</span>
       </div>
    </div>
-   <div class="container-icons">
-      <div class="content-icon">
-         <img src="public/image/types/fairy.png">
-         <span>fairy</span>
+   <div  style="display: flex; align-content: center; margin-left: 40px;">
+      <div  style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
+         <img src="public/image/types/dinosaur.png" style="width: 25px;">
+         <span style="margin-left: 5px; text-transform: capitalize;">dinosaur</span>
       </div>
-      <div class="content-icon">
-         <img src="public/image/types/fiend.png">
-         <span>fiend</span>
+      <div  style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
+         <img src="public/image/types/divine.png" style="width: 25px;"> 
+         <span style="margin-left: 5px; text-transform: capitalize;">divine</span>
       </div>
-      <div class="content-icon">
-         <img src="public/image/types/fish.png">
-         <span>fish</span>
-      </div>
-   </div>
-   <div class="container-icons">
-      <div class="content-icon">
-        <img src="public/image/types/insect.png">
-         <span>insect</span>
-      </div>
-      <div class="content-icon">
-         <img src="public/image/types/machine.png">
-         <span>machine</span>
-      </div>
-      <div class="content-icon">
-         <img src="public/image/types/plant.png">
-         <span>plant</span>
+      <div  style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
+         <img src="public/image/types/dragon.png" style="width: 25px;">
+         <span style="margin-left: 5px; text-transform: capitalize;">dragon</span>
       </div>
    </div>
-   <div class="container-icons">
-      <div class="content-icon">
-         <img src="public/image/types/pyro.png">
-         <span>pyro</span>
+   <div  style="display: flex; align-content: center; margin-left: 40px;">
+      <div  style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
+         <img src="public/image/types/fairy.png" style="width: 25px;">
+         <span style="margin-left: 5px; text-transform: capitalize;">fairy</span>
       </div>
-      <div class="content-icon">
-        <img src="public/image/types/reptile.png">
-         <span>reptile</span>
+      <div  style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
+         <img src="public/image/types/fiend.png" style="width: 25px;">
+         <span style="margin-left: 5px; text-transform: capitalize;">fiend</span>
       </div>
-      <div class="content-icon">
-         <img src="public/image/types/rock.png">
-         <span>rock</span>
-      </div>
-   </div>
-   <div class="container-icons">
-      <div class="content-icon">
-         <img src="public/image/types/sea-serpent.png">
-         <span>sea-serpent</span>
-      </div>
-      <div class="content-icon">
-         <img src="public/image/types/spellcaster.png">
-         <span>spellcaster</span>
-      </div>
-      <div class="content-icon">
-         <img src="public/image/types/thunder.png">
-         <span>thunder</span>
+      <div  style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
+         <img src="public/image/types/fish.png" style="width: 25px;">
+         <span style="margin-left: 5px; text-transform: capitalize;">fish</span>
       </div>
    </div>
-   <div class="container-icons">
-      <div class="content-icon">
-         <img src="public/image/types/warrior.png">
-         <span>warrior</span>
+   <div  style="display: flex; align-content: center; margin-left: 40px;">
+      <div  style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
+        <img src="public/image/types/insect.png" style="width: 25px;">
+         <span style="margin-left: 5px; text-transform: capitalize;">insect</span>
       </div>
-      <div class="content-icon">
-         <img src="public/image/types/winged-beast.png">
-         <span>winged-beast</span>
+      <div  style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
+         <img src="public/image/types/machine.png" style="width: 25px;">
+         <span style="margin-left: 5px; text-transform: capitalize;">machine</span>
       </div>
-      <div class="content-icon">
-         <img src="public/image/types/zombie.png">
-         <span>zombie</span>
+      <div  style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
+         <img src="public/image/types/plant.png" style="width: 25px;">
+         <span style="margin-left: 5px; text-transform: capitalize;">plant</span>
+      </div>
+   </div>
+   <div  style="display: flex; align-content: center; margin-left: 40px;">
+      <div  style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
+         <img src="public/image/types/pyro.png" style="width: 25px;">
+         <span style="margin-left: 5px; text-transform: capitalize;">pyro</span>
+      </div>
+      <div  style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
+        <img src="public/image/types/reptile.png" style="width: 25px;">
+         <span style="margin-left: 5px; text-transform: capitalize;">reptile</span>
+      </div>
+      <div  style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
+         <img src="public/image/types/rock.png" style="width: 25px;">
+         <span style="margin-left: 5px; text-transform: capitalize;">rock</span>
+      </div>
+   </div>
+   <div  style="display: flex; align-content: center; margin-left: 40px;">
+      <div  style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
+         <img src="public/image/types/sea-serpent.png" style="width: 25px;">
+         <span style="margin-left: 5px; text-transform: capitalize;">sea-serpent</span>
+      </div>
+      <div  style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
+         <img src="public/image/types/spellcaster.png" style="width: 25px;">
+         <span style="margin-left: 5px; text-transform: capitalize;">spellcaster</span>
+      </div>
+      <div  style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
+         <img src="public/image/types/thunder.png" style="width: 25px;">
+         <span style="margin-left: 5px; text-transform: capitalize;">thunder</span>
+      </div>
+   </div>
+   <div  style="display: flex; align-content: center; margin-left: 40px;">
+      <div  style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
+         <img src="public/image/types/warrior.png" style="width: 25px;">
+         <span style="margin-left: 5px; text-transform: capitalize;">warrior</span>
+      </div>
+      <div  style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
+         <img src="public/image/types/winged-beast.png" style="width: 25px;">
+         <span style="margin-left: 5px; text-transform: capitalize;">winged-beast</span>
+      </div>
+      <div  style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
+         <img src="public/image/types/zombie.png" style="width: 25px;">
+         <span style="margin-left: 5px; text-transform: capitalize;">zombie</span>
       </div>
    </div>
 
@@ -125,7 +125,7 @@
 
    * Quando uma carta é criada com o tipo <b>Divine</b> a cor dela será azul, os demais tipos a cor será amarela.
 
-   <img class="cardColor" src="public/image/cards.png">
+   <img style="margin: 5px 0 15px 40px;" src="public/image/cards.png">
 
    * O ataque e defesa não ultrapassam de <b>9999</b>. 
    * Só é possível inserir imagens dos tipos: <b>PNG, JPEG, JPG</b> ou <b>JFIF</b>.
@@ -137,34 +137,3 @@
    * <a href="https://yugioh-create-card.herokuapp.com/">Visualizar Projeto</a>
 
 </div>
-
-
-<style type='text/css'>
-   .container{
-      margin: 20px 0;
-   }
-   .container-icons {
-      display: flex;
-      align-content: center;
-      margin-left: 40px;
-   }
-   .content-icon {
-      width: 150px; 
-      display: flex;
-      align-items: center;
-      margin: 15px 0;
-   }
-   .content-icon:last-child{
-      border: none;
-   }
-   .content-icon img{
-      width: 25px;
-   }
-   .content-icon span{
-      margin-left: 5px;
-      text-transform: capitalize;
-   }
-   .cardColor{
-      margin: 5px 0 15px 40px;
-   }
-</style>
