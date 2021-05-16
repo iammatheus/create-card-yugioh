@@ -129,7 +129,7 @@
 
    * O ataque e defesa não ultrapassam de <b>9999</b>. 
    * Só é possível inserir imagens dos tipos: <b>PNG, JPEG, JPG</b> ou <b>JFIF</b>.
-   * <spanstyle="color: #f54b42;">Todos os campos devem ser preenchidos!</span>
+   * <span color="#f54b42">Todos os campos devem ser preenchidos!</span>
 
    <br/>
 
