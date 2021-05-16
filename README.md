@@ -2,6 +2,7 @@
 
 ## Sobre o projeto
 * Projeto criado com o intuito de aprimorar os meus conhecimentos na área, inspirado no site <a href="https://www.cardmaker.net/yugioh/">Yugioh Card Maker</a>, o projeto tem as seguintes funções: 
+
    <ol>
       <li>Criar</li>
       <li>Deletar</li>
@@ -9,6 +10,7 @@
    </ol>  
 
 * Ferramentas utilizadas na criação do projeto:
+
    <ol>
       <li><b>HTML, CSS, JS</b>: Desenvolvimento front-end.</li>
       <li><b>NodeJS</b>: Desenvolvimento backend.</li>
