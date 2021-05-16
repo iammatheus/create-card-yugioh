@@ -2,7 +2,6 @@
 
 ## Sobre o projeto
 * Projeto criado com o intuito de aprimorar os meus conhecimentos na área, inspirado no site <a href="https://www.cardmaker.net/yugioh/">Yugioh Card Maker</a>, o projeto tem as seguintes funções: 
-
    <ol>
       <li>Criar</li>
       <li>Deletar</li>
@@ -10,7 +9,6 @@
    </ol>  
 
 * Ferramentas utilizadas na criação do projeto:
-
    <ol>
       <li><b>HTML, CSS, JS</b>: Desenvolvimento front-end.</li>
       <li><b>NodeJS</b>: Desenvolvimento backend.</li>
@@ -20,104 +18,104 @@
       <li><b>Editor</b>: Visual Studio Code</li>
    </ol> 
 
-<div  style="margin: 20px 0;">
+<div>
    <h2>Criação de cartas</h2>
    * Você pode criar os seguintes tipos de cartas:
 
-   <div  style="display: flex; align-content: center; margin-left: 40px;">
-      <div  style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
+   <div style="display: flex; align-content: center; margin-left: 40px;">
+      <div style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
          <img src="public/image/types/aqua.png" style="width: 25px;">
          <span style="margin-left: 5px; text-transform: capitalize;">aqua</span>
       </div>
-      <div  style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
+      <div style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
          <img src="public/image/types/beast-warrior.png" style="width: 25px;"> 
          <span style="margin-left: 5px; text-transform: capitalize;">beast-warrior</span>
       </div>
-      <div  style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
+      <div style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
          <img src="public/image/types/beast.png" style="width: 25px;">
          <span style="margin-left: 5px; text-transform: capitalize;">beast</span>
       </div>
    </div>
-   <div  style="display: flex; align-content: center; margin-left: 40px;">
-      <div  style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
+   <div style="display: flex; align-content: center; margin-left: 40px;">
+      <div style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
          <img src="public/image/types/dinosaur.png" style="width: 25px;">
          <span style="margin-left: 5px; text-transform: capitalize;">dinosaur</span>
       </div>
-      <div  style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
+      <div style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
          <img src="public/image/types/divine.png" style="width: 25px;"> 
          <span style="margin-left: 5px; text-transform: capitalize;">divine</span>
       </div>
-      <div  style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
+      <div style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
          <img src="public/image/types/dragon.png" style="width: 25px;">
          <span style="margin-left: 5px; text-transform: capitalize;">dragon</span>
       </div>
    </div>
-   <div  style="display: flex; align-content: center; margin-left: 40px;">
-      <div  style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
+   <div style="display: flex; align-content: center; margin-left: 40px;">
+      <div style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
          <img src="public/image/types/fairy.png" style="width: 25px;">
          <span style="margin-left: 5px; text-transform: capitalize;">fairy</span>
       </div>
-      <div  style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
+      <div style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
          <img src="public/image/types/fiend.png" style="width: 25px;">
          <span style="margin-left: 5px; text-transform: capitalize;">fiend</span>
       </div>
-      <div  style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
+      <div style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
          <img src="public/image/types/fish.png" style="width: 25px;">
          <span style="margin-left: 5px; text-transform: capitalize;">fish</span>
       </div>
    </div>
-   <div  style="display: flex; align-content: center; margin-left: 40px;">
-      <div  style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
+   <div style="display: flex; align-content: center; margin-left: 40px;">
+      <div style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
         <img src="public/image/types/insect.png" style="width: 25px;">
          <span style="margin-left: 5px; text-transform: capitalize;">insect</span>
       </div>
-      <div  style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
+      <div style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
          <img src="public/image/types/machine.png" style="width: 25px;">
          <span style="margin-left: 5px; text-transform: capitalize;">machine</span>
       </div>
-      <div  style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
+      <div style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
          <img src="public/image/types/plant.png" style="width: 25px;">
          <span style="margin-left: 5px; text-transform: capitalize;">plant</span>
       </div>
    </div>
-   <div  style="display: flex; align-content: center; margin-left: 40px;">
-      <div  style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
+   <div style="display: flex; align-content: center; margin-left: 40px;">
+      <div style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
          <img src="public/image/types/pyro.png" style="width: 25px;">
          <span style="margin-left: 5px; text-transform: capitalize;">pyro</span>
       </div>
-      <div  style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
+      <div style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
         <img src="public/image/types/reptile.png" style="width: 25px;">
          <span style="margin-left: 5px; text-transform: capitalize;">reptile</span>
       </div>
-      <div  style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
+      <div style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
          <img src="public/image/types/rock.png" style="width: 25px;">
          <span style="margin-left: 5px; text-transform: capitalize;">rock</span>
       </div>
    </div>
-   <div  style="display: flex; align-content: center; margin-left: 40px;">
-      <div  style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
+   <div style="display: flex; align-content: center; margin-left: 40px;">
+      <div style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
          <img src="public/image/types/sea-serpent.png" style="width: 25px;">
          <span style="margin-left: 5px; text-transform: capitalize;">sea-serpent</span>
       </div>
-      <div  style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
+      <div style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
          <img src="public/image/types/spellcaster.png" style="width: 25px;">
          <span style="margin-left: 5px; text-transform: capitalize;">spellcaster</span>
       </div>
-      <div  style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
+      <div style="width:150px; isplay:flex; align-items:center; margin:15px 0;">
          <img src="public/image/types/thunder.png" style="width: 25px;">
          <span style="margin-left: 5px; text-transform: capitalize;">thunder</span>
       </div>
    </div>
-   <div  style="display: flex; align-content: center; margin-left: 40px;">
-      <div  style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
+   <div style="display: flex; align-content: center; margin-left: 40px;">
+      <div style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
          <img src="public/image/types/warrior.png" style="width: 25px;">
          <span style="margin-left: 5px; text-transform: capitalize;">warrior</span>
       </div>
-      <div  style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
+      <div style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
          <img src="public/image/types/winged-beast.png" style="width: 25px;">
          <span style="margin-left: 5px; text-transform: capitalize;">winged-beast</span>
       </div>
-      <div  style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
+      <div style="width: 150px; display: flex; align-items: center; margin: 15px 0;">
          <img src="public/image/types/zombie.png" style="width: 25px;">
          <span style="margin-left: 5px; text-transform: capitalize;">zombie</span>
       </div>
