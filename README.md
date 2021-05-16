@@ -24,7 +24,7 @@
 * Você pode criar os seguintes tipos de cartas:
 
 Icon | Tipo
----- | ----
+:---- | :----
 <img src="public/image/types/aqua.png" width="25px"> | <span>Aqua</span>
 <img src="public/image/types/beast-warrior.png" width="25px">  | <span>Beast-warrior</span>
 <img src="public/image/types/beast.png" width="25px"> | <span>Beast</span>
