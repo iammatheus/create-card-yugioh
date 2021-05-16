@@ -18,33 +18,34 @@
       <li><b>Editor</b>: Visual Studio Code</li>
    </ol> 
 
+
 ## Criação de cartas
 
 * Você pode criar os seguintes tipos de cartas:
 
 Icon | Tipo
 ---- | ----
-<img src="public/image/types/aqua.png" width="15px"> | <span>Aqua</span>
-<img src="public/image/types/beast-warrior.png" width="15px">  | <span>Beast-warrior</span>
-<img src="public/image/types/beast.png" width="15px"> | <span>Beast</span>
-<img src="public/image/types/dinosaur.png" width="15px"> | <span>Dinosaur</span>
-<img src="public/image/types/divine.png" width="15px">  | <span>Divine</span>
-<img src="public/image/types/dragon.png" width="15px"> | <span>Dragon</span>
-<img src="public/image/types/fairy.png" width="15px"> | <span>Fairy</span>
-<img src="public/image/types/fiend.png" width="15px"> | <span>Fiend</span>
-<img src="public/image/types/fish.png" width="15px"> | <span>Fish</span>
-<img src="public/image/types/insect.png" width="15px"> | <span>Insect</span>
-<img src="public/image/types/machine.png" width="15px"> | <span>Machine</span>
-<img src="public/image/types/plant.png" width="15px"> | <span>Plant</span>
-<img src="public/image/types/pyro.png" width="15px"> | <span>Pyro</span>
-<img src="public/image/types/reptile.png" width="15px"> | <span>Reptile</span>
-<img src="public/image/types/rock.png" width="15px"> | <span>Rock</span>
-<img src="public/image/types/sea-serpent.png" width="15px"> | <span>Sea-serpent</span>
-<img src="public/image/types/spellcaster.png" width="15px"> | <span>Spellcaster</span>
-<img src="public/image/types/thunder.png" width="15px"> | <span>Thunder</span>
-<img src="public/image/types/warrior.png" width="15px"> | <span>Warrior</span>
-<img src="public/image/types/winged-beast.png" width="15px"> | <span>Winged-beast</span>
-<img src="public/image/types/zombie.png" width="15px"> | <span>Zombie</span>
+<img src="public/image/types/aqua.png" width="25px"> | <span>Aqua</span>
+<img src="public/image/types/beast-warrior.png" width="25px">  | <span>Beast-warrior</span>
+<img src="public/image/types/beast.png" width="25px"> | <span>Beast</span>
+<img src="public/image/types/dinosaur.png" width="25px"> | <span>Dinosaur</span>
+<img src="public/image/types/divine.png" width="25px">  | <span>Divine</span>
+<img src="public/image/types/dragon.png" width="25px"> | <span>Dragon</span>
+<img src="public/image/types/fairy.png" width="25px"> | <span>Fairy</span>
+<img src="public/image/types/fiend.png" width="25px"> | <span>Fiend</span>
+<img src="public/image/types/fish.png" width="25px"> | <span>Fish</span>
+<img src="public/image/types/insect.png" width="25px"> | <span>Insect</span>
+<img src="public/image/types/machine.png" width="25px"> | <span>Machine</span>
+<img src="public/image/types/plant.png" width="25px"> | <span>Plant</span>
+<img src="public/image/types/pyro.png" width="25px"> | <span>Pyro</span>
+<img src="public/image/types/reptile.png" width="25px"> | <span>Reptile</span>
+<img src="public/image/types/rock.png" width="25px"> | <span>Rock</span>
+<img src="public/image/types/sea-serpent.png" width="25px"> | <span>Sea-serpent</span>
+<img src="public/image/types/spellcaster.png" width="25px"> | <span>Spellcaster</span>
+<img src="public/image/types/thunder.png" width="25px"> | <span>Thunder</span>
+<img src="public/image/types/warrior.png" width="25px"> | <span>Warrior</span>
+<img src="public/image/types/winged-beast.png" width="25px"> | <span>Winged-beast</span>
+<img src="public/image/types/zombie.png" width="25px"> | <span>Zombie</span>
 
 <br/>
 
@@ -56,7 +57,7 @@ Icon | Tipo
 * Só é possível inserir imagens dos tipos: <b>PNG, JPEG, JPG</b> ou <b>JFIF</b>.
 * Todos os campos devem ser preenchidos!</span>
 
-<br/>
+   <br/>
 
 * Projeto 100% responsivo.
 * <a href="https://yugioh-create-card.herokuapp.com/">Visualizar Projeto</a>
