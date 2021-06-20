@@ -1,6 +1,5 @@
 # Criação de Cartas Yu-Gi-Oh!
 
-## Sobre o projeto
 Projeto criado com o intuito de aprimorar os meus conhecimentos em desenvolvimento web, inspirado no site <a href="https://www.cardmaker.net/yugioh/">Yugioh Card Maker</a> 
 
 <img src="public/image/presentation.png">
