@@ -50,13 +50,9 @@ Icon | Tipo
 
 ### Desenvolvimento
 
-* Ferramentas utilizadas na criação do projeto:
-
- <ol>
-    <li><b>HTML, CSS, JS</b>: Desenvolvimento front-end.</li>
-    <li><b>NodeJS</b>: Desenvolvimento backend.</li>
-    <li><b>Banco de dados</b>: MongoDB.</li>
-    <li><b>Handlebars</b>: Template que permite utilizar códigos JS dentro do HTML.</li>
-    <li><b>Api Imgur</b>: Armazenamento e retorno da imagem que foi inserida.</li>
-    <li><b>Editor</b>: Visual Studio Code</li>
- </ol> 
+* <b>HTML5, CSS3, JS</b>: Desenvolvimento frontend.
+* <b>NodeJS</b>: Desenvolvimento backend.
+* <b>Banco de dados</b>: MongoDB.
+* <b>Handlebars</b>: Template que permite utilizar códigos JS dentro do HTML.
+* <b>Api Imgur</b>: Armazenamento e retorno da imagem que foi inserida.
+* <b>Editor</b>: Visual Studio Code.
