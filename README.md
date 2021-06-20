@@ -1,20 +1,19 @@
 # Criação de Cartas Yu-Gi-Oh!
 
 ## Sobre o projeto
-* Projeto criado com o intuito de aprimorar os meus conhecimentos na área, inspirado no site <a href="https://www.cardmaker.net/yugioh/">Yugioh Card Maker</a>, o projeto tem as seguintes funções: 
- <ol>
-    <li>Criar</li>
-    <li>Deletar</li>
-    <li>Listar</li>
- </ol>  
+Projeto criado com o intuito de aprimorar os meus conhecimentos em desenvolvimento web, inspirado no site <a href="https://www.cardmaker.net/yugioh/">Yugioh Card Maker</a> 
 
 <img src="public/image/presentation.png">
 
 <a href="https://yugioh-create-card.herokuapp.com/">Visualizar Projeto</a>
 
-## Criação de cartas
+### Funcionalidades
 
-* Você pode criar os seguintes tipos de cartas:
+* Criar
+* Deletar
+* Listar
+
+#### Tipos permitidos
 
 Icon | Tipo
 :---- | :----
@@ -47,7 +46,7 @@ Icon | Tipo
 
 * O ataque e defesa não ultrapassam de <b>9999</b>. 
 * Só é possível inserir imagens dos tipos: <b>PNG, JPEG, JPG</b> ou <b>JFIF</b>.
-* Todos os campos devem ser preenchidos!</span>
+* Todos os campos devem ser preenchidos.</span>
 
 ### Desenvolvimento
 
