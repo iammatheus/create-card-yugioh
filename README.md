@@ -8,16 +8,9 @@
     <li>Listar</li>
  </ol>  
 
-* Ferramentas utilizadas na criação do projeto:
+<img src="public/image/presentation.png">
 
- <ol>
-    <li><b>HTML, CSS, JS</b>: Desenvolvimento front-end.</li>
-    <li><b>NodeJS</b>: Desenvolvimento backend.</li>
-    <li><b>Banco de dados</b>: MongoDB.</li>
-    <li><b>Handlebars</b>: Template que permite utilizar códigos JS dentro do HTML.</li>
-    <li><b>Api Imgur</b>: Armazenamento e retorno da imagem que foi inserida.</li>
-    <li><b>Editor</b>: Visual Studio Code</li>
- </ol> 
+<a href="https://yugioh-create-card.herokuapp.com/">Visualizar Projeto</a>
 
 ## Criação de cartas
 
@@ -56,7 +49,15 @@ Icon | Tipo
 * Só é possível inserir imagens dos tipos: <b>PNG, JPEG, JPG</b> ou <b>JFIF</b>.
 * Todos os campos devem ser preenchidos!</span>
 
-<br/>
+### Desenvolvimento
 
-* Projeto 100% responsivo.
-* <a href="https://yugioh-create-card.herokuapp.com/">Visualizar Projeto</a>
+* Ferramentas utilizadas na criação do projeto:
+
+ <ol>
+    <li><b>HTML, CSS, JS</b>: Desenvolvimento front-end.</li>
+    <li><b>NodeJS</b>: Desenvolvimento backend.</li>
+    <li><b>Banco de dados</b>: MongoDB.</li>
+    <li><b>Handlebars</b>: Template que permite utilizar códigos JS dentro do HTML.</li>
+    <li><b>Api Imgur</b>: Armazenamento e retorno da imagem que foi inserida.</li>
+    <li><b>Editor</b>: Visual Studio Code</li>
+ </ol> 
